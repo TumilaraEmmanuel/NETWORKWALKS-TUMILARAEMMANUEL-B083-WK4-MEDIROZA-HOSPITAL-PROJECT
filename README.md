@@ -1,12 +1,13 @@
 # NETWORKWALKS-TUMILARAEMMANUEL-B083-WK4-MEDIROZA-HOSPITAL-PROJECT
 
-**Author:** Opakunbi Aduragbemi
-**Project:** Mediroza General Hospital Web Application Penetration Test
-**Training Batch:** B083
-**Week:** 4
-**Assessment Type:** Authorised Web Application Security Assessment
-**Environment:** Kali Linux
-**Status:** Completed
+![Cybersecurity](https://img.shields.io/badge/Focus-Web%20Application%20Security-red)
+![Platform](https://img.shields.io/badge/Platform-Kali%20Linux-blue)
+![Assessment](https://img.shields.io/badge/Assessment-Penetration%20Testing-orange)
+![Status](https://img.shields.io/badge/Status-Completed-success)
+
+### 👨‍💻 Pentester
+
+**Opakunbi Oluwatumilara Emmanuel**
 
 ---
 
@@ -14,7 +15,7 @@
 
 This project involved an authorised penetration test of the **Mediroza General Hospital web application** as part of a cybersecurity training exercise.
 
-I, **Opakunbi Aduragbemi**, performed the assessment using a structured penetration-testing methodology covering reconnaissance, initial access, authentication testing, SQL injection testing, PDF security assessment, metadata analysis, exposed-directory investigation, and database-backup exposure.
+I, **Opakunbi Oluwatumilara Emmanuel**, performed the assessment using a structured penetration-testing methodology covering reconnaissance, initial access, authentication testing, SQL injection testing, PDF security assessment, metadata analysis, exposed-directory investigation, and database-backup exposure.
 
 The assessment demonstrated how several individual weaknesses could be chained together to create a significant security impact.
 
